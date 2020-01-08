@@ -1,12 +1,12 @@
 {
-   "Page 1" : {
-	"TextView" :{
-		"Text" : "Sample Text 1",
-		"Position" : "Parent Top",
-	},
-	"TextView" :{
-		"Text" : "Sample Text 2",
-		"Position" : "Parent Bottom",
+	"Page 1": {
+		"TextView 1": {
+			"Text": "Sample Text 1",
+			"Position": "Parent Top"
+		},
+		"TextView 2": {
+			"Text": "Sample Text 2",
+			"Position": "Parent Bottom"
+		}
 	}
-  }
 }
