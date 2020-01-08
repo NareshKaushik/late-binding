@@ -1,31 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "Comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "Comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+   "Page 1" : {
+	"TextView" :{
+		"Text" : "Sample Text 1",
+		"Position" : "Parent Top",
+	},
+	"TextView" :{
+		"Text" : "Sample Text 2",
+		"Position" : "Parent Bottom",
+	}
   }
 }
