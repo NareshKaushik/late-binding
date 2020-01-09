@@ -1,16 +1,31 @@
 {
-"Page1": {
-	"TextView1": {
-		"Text": "Sample Text 1",
-		"Position": "Parent Top"
-	},
-	"TextView2": {
-		"Text": "Sample Text 2",
-		"Position": "Parent Bottom"
-	},
-	"TextView3": {
-		"Text": "Sample Text 3",
-		"Position": "Parent Center"
-	}
-}
+	"Page": [{
+			"Type": "TextView",
+			"Text": "Sample Text 1",
+			"layout_width": "wrap_content",
+			"layout_height": "wrap_content",
+			"Constraints": [{
+				"ConstraintTop": "ParentTop"
+			}]
+		},
+		{
+			"Type": "ImageView",
+			"src": "www.google.com",
+			"layout_width": "wrap_content",
+			"layout_height": "wrap_content",
+			"Constraints": [{
+				"ConstraintTop": "ParentTop"
+			}, {
+				"ConstraintBottom": "ParentBottom"
+			}]
+		}, {
+			"Type": "TextView",
+			"Text": "Sample Text 2",
+			"layout_width": "wrap_content",
+			"layout_height": "wrap_content",
+			"Constraints": [{
+				"ConstraintBottom": "ParentBottom"
+			}]
+		}
+	]
 }
