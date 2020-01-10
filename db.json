@@ -1,31 +1,61 @@
 {
-	"Page": [{
-			"Type": "TextView",
-			"Text": "Sample Text 1",
-			"layout_width": "wrap_content",
-			"layout_height": "wrap_content",
-			"Constraints": [{
-				"ConstraintTop": "ParentTop"
-			}]
-		},
-		{
-			"Type": "ImageView",
-			"src": "www.google.com",
-			"layout_width": "wrap_content",
-			"layout_height": "wrap_content",
-			"Constraints": [{
-				"ConstraintTop": "ParentTop"
-			}, {
-				"ConstraintBottom": "ParentBottom"
-			}]
-		}, {
-			"Type": "TextView",
-			"Text": "Sample Text 2",
-			"layout_width": "wrap_content",
-			"layout_height": "wrap_content",
-			"Constraints": [{
-				"ConstraintBottom": "ParentBottom"
-			}]
-		}
-	]
+  "layout":[{
+    "height":"wrap",
+    "width":"wrap",
+    "id": "100",
+     "textColor":"#00000",
+     "label":"Enter Email",
+     "background":"#ffffff",
+     "type":"textview"
+     
+  },
+    {
+      "height": "wrap",
+      "width": "wrap",
+      "id": "200",
+      "label": "Ankur Email",
+      "textColor": "#00000",
+      "background": "#ffffff",
+      "type": "edittext"
+    },
+    {
+      "height":"wrap",
+      "width":"wrap",
+      "id": "300",
+      "textColor":"#00000",
+      "label":"Enter Password",
+      "background":"#ffffff",
+      "type":"textview"
+
+    },
+    {
+      "height": "wrap",
+      "width": "wrap",
+      "id": "400",
+      "label": "Your Password",
+      "textColor": "#00000",
+      "background": "#ffffff",
+      "type": "edittext"
+    },
+    {
+      "height": "wrap",
+      "width": "wrap",
+      "id": "500",
+      "label": "Login",
+      "textColor": "#00000",
+      "background": "#ffffff",
+      "type": "button"
+    },
+    {
+      "height": "wrap",
+      "width": "wrap",
+      "id": "600",
+      "label": "Reset",
+      "textColor": "#00000",
+      "background": "#ffffff",
+      "type": "button"
+    }
+
+     
+  ]
 }
