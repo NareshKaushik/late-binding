@@ -25,7 +25,7 @@
         "startSide":"top",
         "endId":"parentid",
         "endSide":"top",
-         "margin": "50",
+         "margin": "50"
       }
 
     ]
