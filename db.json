@@ -7,21 +7,21 @@
     "src":"https://ircep.gov.in/PMIS/images/login-icon.png",
     "type":"imageview",
     "connects":[{
-      "startId":"100",
+      "startId":"10",
       "startSide":"left",
       "endId":"parentid",
       "endSide":"left",
       "margin": "0"
     },
 	{
-      "startId":"100",
+      "startId":"10",
       "startSide":"right",
       "endId":"parentid",
       "endSide":"right",
       "margin": "0"
     },
       {
-        "startId":"100",
+        "startId":"10",
         "startSide":"top",
         "endId":"parentid",
         "endSide":"top",
