@@ -50,7 +50,7 @@
         "startId":"100",
         "startSide":"top",
         "endId":"10",
-        "endSide":"top",
+        "endSide":"bottom",
          "margin": "50"
       }
 
