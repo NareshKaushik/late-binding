@@ -159,6 +159,7 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"button",
+	  "isEnabled" : "false",
       "connects":[{
         "startId":"500",
         "startSide":"left",
@@ -183,6 +184,7 @@
       "width":"wrap_content",
       "id": "600",
       "label":"Reset",
+	  "visiblity" : "gone",
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"button",
