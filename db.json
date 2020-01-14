@@ -125,6 +125,7 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"edittext",
+	  "inputType":"password",
       "connects":[{
         "startId":"400",
         "startSide":"left",
