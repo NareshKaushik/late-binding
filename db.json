@@ -6,6 +6,7 @@
     "id": "10",
     "src":"https://ircep.gov.in/PMIS/images/login-icon.png",
     "type":"imageview",
+	"visiblity":"gone",
     "connects":[{
       "startId":"10",
       "startSide":"left",
