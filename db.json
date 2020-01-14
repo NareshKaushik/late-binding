@@ -6,7 +6,6 @@
     "id": "10",
     "src":"https://ircep.gov.in/PMIS/images/login-icon.png",
     "type":"imageview",
-	"visiblity":"gone",
     "connects":[{
       "startId":"10",
       "startSide":"left",
@@ -23,9 +22,9 @@
     },
       {
         "startId":"10",
-        "startSide":"top",
+        "startSide":"bottom",
         "endId":"parentid",
-        "endSide":"top",
+        "endSide":"bottom",
          "margin": "50"
       }
 
@@ -50,8 +49,8 @@
       {
         "startId":"100",
         "startSide":"top",
-        "endId":"10",
-        "endSide":"bottom",
+        "endId":"parentid",
+        "endSide":"top",
          "margin": "50"
       }
 
