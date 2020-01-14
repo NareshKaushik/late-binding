@@ -22,9 +22,9 @@
     },
       {
         "startId":"10",
-        "startSide":"bottom",
+        "startSide":"top",
         "endId":"parentid",
-        "endSide":"bottom",
+        "endSide":"top",
          "margin": "50"
       }
 
@@ -49,8 +49,8 @@
       {
         "startId":"100",
         "startSide":"top",
-        "endId":"parentid",
-        "endSide":"top",
+        "endId":"10",
+        "endSide":"bottom",
          "margin": "50"
       }
 
