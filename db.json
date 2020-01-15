@@ -65,7 +65,7 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"edittext",
-	  "isEnabled":"false"
+	  "isEnabled":"false",
       "connects":[{
         "startId":"200",
         "startSide":"left",
