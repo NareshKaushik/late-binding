@@ -65,7 +65,7 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"edittext",
-	  "inputType":"number",
+	  "isEnabled":"false"
       "connects":[{
         "startId":"200",
         "startSide":"left",
@@ -188,6 +188,7 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"button",
+	  "visibility":"gone",
       "connects":[{
         "startId":"600",
         "startSide":"top",
