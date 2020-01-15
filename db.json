@@ -187,7 +187,6 @@
       "textColor":"#000000",
       "background":"#ffffff",
       "type":"button",
-	  "visibility":"gone",
       "connects":[{
         "startId":"600",
         "startSide":"top",
